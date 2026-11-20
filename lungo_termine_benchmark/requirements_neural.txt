@@ -1,0 +1,6 @@
+# Venv .venv_neural per reti.py (N-HiTS, PatchTST): versioni installate e verificate
+neuralforecast==3.3.0
+pandas==3.1.0
+numpy==2.5.4
+torch==2.14.1
+pytorch-lightning==2.6.6

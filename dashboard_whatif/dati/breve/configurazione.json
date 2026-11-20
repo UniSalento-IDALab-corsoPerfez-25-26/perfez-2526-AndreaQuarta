@@ -1,0 +1,33 @@
+{
+  "utente": "U141",
+  "periodi": {
+    "train": [
+      "2018-11-01",
+      "2019-09-30"
+    ],
+    "validazione": [
+      "2019-10-01",
+      "2019-10-31"
+    ],
+    "test": [
+      "2019-11-01",
+      "2019-12-31"
+    ]
+  },
+  "horizon": 96,
+  "lookback": 168,
+  "scala_mase": 693.5577306607165,
+  "modelli": [
+    "Persistenza",
+    "Naive 24h",
+    "Naive 168h",
+    "XGBoost",
+    "LightGBM",
+    "LSTM",
+    "GRU",
+    "Chronos-2",
+    "Chronos-Bolt",
+    "TimesFM 2.5",
+    "TimesFM 3.0"
+  ]
+}

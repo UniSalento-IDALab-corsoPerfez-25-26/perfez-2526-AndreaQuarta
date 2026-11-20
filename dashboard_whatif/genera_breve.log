@@ -1,0 +1,13 @@
+15 origini di test, scala MASE 693.6
+Persistenza: 0s
+Naive 24h: 0s
+Naive 168h: 0s
+XGBoost: 48s
+LightGBM: 151s
+LSTM: 8s
+GRU: 19s
+Chronos-2: 37s
+Chronos-Bolt: 85s
+TimesFM 2.5: 382s
+TimesFM 3.0: 21s
+Salvato in /Users/andrea.quarta/workspace_personal/progetto_corso_perfezionamento/dashboard_whatif/dati/breve
